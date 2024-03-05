@@ -47,26 +47,26 @@ RFM score segmentation is grouped into 5 consumer groups with the following rule
 
 ## Summary
 
-!(https://github.com/erimilis/finpro_/images/rfm01.png)
+![https://github.com/erimilis/finpro_/images/rfm1.png](https://github.com/erimilis/finpro_/blob/main/images/rfm1.png?raw=true)
 This chart shows that:
 1. Consumers are so active that the highest recency is only 217 days, even Q2 is at 16 days
 2. Consumers are used to shopping here
 3. Consumers have also been shopping in large quantities.
 
-!(https://github.com/erimilis/finpro_/images/rfm02.png)
+![https://github.com/erimilis/finpro_/images/rfm2.png](https://github.com/erimilis/finpro_/blob/main/images/rfm2.png?raw=true)
 The boxplot chart strengthens the previous explanation
 
-!(https://github.com/erimilis/finpro_/images/rfm03.png)
+![https://github.com/erimilis/finpro_/images/rfm3.png](https://github.com/erimilis/finpro_/blob/main/images/rfm3.png?raw=true)
 The chart above shows that consumers who have high monetary value also have high frequency. This means that they are loyal consumers, shopping at the same shopping value with a large number of transactions
 
-!(https://github.com/erimilis/finpro_/images/rfm04.png)
+![https://github.com/erimilis/finpro_/images/rfm4.png](https://github.com/erimilis/finpro_/blob/main/images/rfm4.png?raw=true)
 From the chart above it appears that consumers are almost evenly divided into 5 groups. Moreover, the number of hibernating consumers is almost equivalent to the promising ones. This could mean that the number of consumers can be maintained.
 
-!(https://github.com/erimilis/finpro_/images/rfm05.png)
+![https://github.com/erimilis/finpro_/images/rfm5.png](https://github.com/erimilis/finpro_/blob/main/images/rfm5.png?raw=true)
 The distribution of consumer groups is indeed stronger in the recency division, so here you can see that consumer groups are clearly divided on the recency chart.
 While in the frequency and monetary charts, consumers are mixed.
 
-## Conclusion and Reccomendation
+## Conclusion and Recommendation
 
 From the analysis, conclusions can be drawn including:
 1. eCommerce has focused on products that customers need, and customers are loyal customers for these products
